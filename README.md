@@ -3,7 +3,7 @@
 👀 I’m interested in Pyhton Programming.
 🌱 I’m currently learning Bachlor In Computer Science.
     I’m  learning Full-Stack Development.
-💞️ I’m looking to collaborate with multinational cpmapanies.
+💞️ I’m looking to collaborate with multinational comapanies.
 📫 You ca reach me through my email.
 
 <!--
